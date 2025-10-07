@@ -24,7 +24,7 @@ Install colorama using:
 
 pip install colorama
 
-Usage
+Usage :
 
 Run the script using:
 
